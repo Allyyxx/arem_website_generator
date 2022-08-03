@@ -8,7 +8,6 @@ date = "2022-08-02"
 ## Présentation
 Lors de la Coupe de France de Robotique 2021, l'association AREM a présenté deux robots, le [Kraken](kraken) et le [Léviathan](leviathan).
 
-![Kraken]()
-![Léviathan]()
+{{< image_left_right src_left="/images/activities/CDR/2021/robots/kraken/kraken.webp" src_right="/images/activities/CDR/2021/robots/leviathan/leviathan.webp">}}
 
-Liste des robots :
+## Liste des robots :

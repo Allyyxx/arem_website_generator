@@ -1,10 +1,11 @@
-section {
+/* section {
     display: flex;
-}
+} */
 div#sectionleft {
     float: left;
     margin-right: 10px;
 }
 div#sectionright {
-    margin: auto;
+    float: right;
+    margin-left: 10px;
 }
