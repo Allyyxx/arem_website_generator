@@ -31,6 +31,12 @@ Depuis cinq ans, notre participation à la Coupe de France de Robotique (CDR) or
 # Le mandat 2022-2023 
 
 Le 8 mars, notre équipe 2023 est rentrée en fonction. Nous avons un an pour réaliser nos projets et réaliser notre objectif : *promouvoir l'électronique et l'informatique*. 
+
+
+![Trombinoscope](/images/common/trombinoscope.webp)
+*Le mandat 2022 - 2023*
+
+
 | Membre | Role | contact | 
 |--|--|--|
 |Eléa Robert | Présidente | elea.robert@etu.emse.fr |
@@ -50,4 +56,3 @@ Le 8 mars, notre équipe 2023 est rentrée en fonction. Nous avons un an pour r�
 
 
 
-Trombinoscope
